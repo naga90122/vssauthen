@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "584787993922",
+    "project_id": "vssauthen",
+    "storage_bucket": "vssauthen.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:584787993922:android:9ea999315daab8d356d4db",
+        "android_client_info": {
+          "package_name": "com.example.vssauthen"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDA4h0mF5KawRL8U_qY5mm7wMIOOGcc8eg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
